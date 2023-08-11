@@ -35,7 +35,7 @@ setup(
         'Clarify==0.3',
         'funcsigs==1.0.2',
         'ipaddress==1.0.18',
-        'future==0.16.0',
+        'future==0.18.3',
     ],
     tests_require=[
         'mock==1.0.1',
